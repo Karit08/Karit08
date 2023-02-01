@@ -1,6 +1,11 @@
 ### Welcome to my profile! 😄👋
 👋 Hi, I’m Karla, I'm a Mechatronics Engineer and currently a student of Full Stack Developer. Hope you find useful my public repos. You can find articles about technologies for Bank-end, Front-end and Full Stack Development projects.
 
+
+🧰 Languages and Tools:
+HTML  CSS  javascript  nodejs  react  redux  postgresql  sequelize  git 
+
+
 <!--
 **Karit08/Karit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
