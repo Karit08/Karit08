@@ -1,6 +1,7 @@
 <h2> Hi, I'm Karla Jimenez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="" width="230"> -->
-<div  align='right' style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1XCcD9VLQZ2Io" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io">via GIPHY</a></p>
+<img align='right' src="https://giphy.com/embed/1XCcD9VLQZ2Io" width="230">
+
+<!-- <p><a href="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io">via GIPHY</a></p> -->
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
