@@ -1,9 +1,9 @@
 ### Welcome to my profile! 😄👋
 
 <h2> Hi, I'm Karla Jimenez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://64.media.tumblr.com/c47fcf68e5fd6d6558d0c1d98a564724/tumblr_n13zd2Y3451rckw67o1_400.gifv" width="300">
+<img align='right' border-radios='10px' src="https://64.media.tumblr.com/c47fcf68e5fd6d6558d0c1d98a564724/tumblr_n13zd2Y3451rckw67o1_400.gifv" width="350">
 
-<p><em>Mechatronics Engineer at <a href="http://www.unb.br">Polytechnic Uneversity of the Valley of Toluca</a><img src="https://upvt.edomex.gob.mx/" width="30"></br>I'm currently a Full Stack Developer in <a href="https://www.oracle.com/mx/education/oracle-next-education/">ONE</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mechatronics Engineer at <a href="https://upvt.edomex.gob.mx/">Polytechnic Uneversity of the Valley of Toluca </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm currently a Full Stack Developer in <a href="https://www.oracle.com/mx/education/oracle-next-education/"> ONE </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
@@ -18,12 +18,6 @@ const Karla = {
   pronouns: "she";
   code: [Javascript, Typescript, Java, C++,  HTML, CSS];
   tools: [React, Redux, Node, Express, Sequelize];
-<!--   architecture: ["microservices", "event-driven", "design system pattern"], -->
-<!--   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      }, -->
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript";
  
 }
@@ -46,7 +40,15 @@ const Karla = {
 
 </div>
 </div>
----
+
+
+
+<!--   architecture: ["microservices", "event-driven", "design system pattern"], -->
+<!--   techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      }, -->
 <!--
 **Karit08/Karit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
