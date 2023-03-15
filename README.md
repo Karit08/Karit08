@@ -7,8 +7,8 @@
 </em></p>
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
-[![Linkedin: Karla JM](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/karla-jimenez-molina-fswd/)
-[![GitHub Karit08](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Karit08)
+[![Linkedin: Karla JM](https://img.shields.io/badge/-Kar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlaijm)](https://www.linkedin.com/in/karlaijm)
+[![GitHub Karit08](https://img.shields.io/github/followers/Karit08?label=follow&style=social)](https://github.com/Karit08)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
